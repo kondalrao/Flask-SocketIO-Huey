@@ -1,3 +1,3 @@
 # Flask-SocketIO-Huey
 
-*Based on https://github.com/miguelgrinberg/Flask-SocketIO.git*
+*Based on example from https://github.com/miguelgrinberg/Flask-SocketIO.git*
